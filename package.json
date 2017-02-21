@@ -1,0 +1,28 @@
+{
+  "name": "console4color",
+  "version": "0.0.1",
+  "description": "Logger to console.log color like info, warn, error or anything",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelbarbosa/console4color.git"
+  },
+  "keywords": [
+    "nojejs",
+    "module",
+    "js"
+  ],
+  "author": "= <joelbarbosa.ads@gmail.com> (github.com/joelbarbosa)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joelbarbosa/console4color/issues"
+  },
+  "homepage": "https://github.com/joelbarbosa/console4color#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
