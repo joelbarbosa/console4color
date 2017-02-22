@@ -2,7 +2,7 @@
   "name": "console4color",
   "version": "0.0.1",
   "description": "Logger to console.log color like info, warn, error or anything",
-  "main": "index.js",
+  "main": "console4color.js",
   "scripts": {
     "test": "mocha --reporter nyan"
   },
