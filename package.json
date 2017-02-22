@@ -1,6 +1,6 @@
 {
   "name": "console4color",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Logger to console.log color like info, warn, error or anything",
   "main": "console4color.js",
   "scripts": {
