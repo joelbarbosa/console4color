@@ -21,11 +21,11 @@ Logger to console.log color like info, warn, error or anything in the Node conso
   
   
 	Output should be:
-	<p style='color:cyan'>INFO: info message</p>
-	<p style='color:yellow'>WARN: warn message</p>
-	<p style='color:red'>ERROR: error message</p>  
-	<p>log message</p>
-	<p>myApp: message to log</p>  
+	INFO: info message // with cyan color
+	WARN: warn message // with yellow color
+	ERROR: error message // red color
+	log message // console color
+	myApp: message to log // console color
 
 ## Tests
 
